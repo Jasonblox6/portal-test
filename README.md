@@ -2,8 +2,8 @@
 
 # Preparation
 
--Navigate to the directory
--Run `npm install` if necessary
+- Navigate to the directory
+- Run `npm install` if necessary
 
 # Running the CSV generator
 
